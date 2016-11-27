@@ -7,10 +7,11 @@
     <packageImport xmi:type="uml:PackageImport" xmi:id="_JXYp8LTaEeaj6NlwcmFyNQ">
       <importedPackage xmi:type="uml:Package" href="pathmap://SysML14_LIBRARIES/SysML-Standard-Library.uml#SysML.package_packagedElement_Libraries"/>
     </packageImport>
-    <packagedElement xmi:type="uml:Class" xmi:id="_NlvgwLTaEeaj6NlwcmFyNQ" name="Aurora">
+    <packagedElement xmi:type="uml:Class" xmi:id="_NlvgwLTaEeaj6NlwcmFyNQ" name="Aurora" visibility="package">
       <ownedComment xmi:type="uml:Comment" xmi:id="_nk_bkLTbEeaj6NlwcmFyNQ" annotatedElement="_NlvgwLTaEeaj6NlwcmFyNQ">
         <body>top level block</body>
       </ownedComment>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_DHHT0LTcEeaj6NlwcmFyNQ" name="launchBalloon"/>
     </packagedElement>
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_JRhSgLTaEeaj6NlwcmFyNQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_JRlj8LTaEeaj6NlwcmFyNQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
